@@ -1,6 +1,6 @@
 +++
-date = "2016-11-12T11:37:18-06:00"
-draft = true
+date = "2016-11-12T12:39:11-06:00"
+draft = false
 title = "initial commit"
 
 +++
